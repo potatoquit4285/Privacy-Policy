@@ -1,6 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/potatoquit4285/Privacy-Policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Privacy Policy
 Promal built the Word world delux app as an Ad Supported app. This SERVICE is provided by Promal at no cost and is intended for use as is.
